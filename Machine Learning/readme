@@ -1,1 +1,36 @@
-All about ML
+# 🤖 Machine Learning – SMIT Data Science & AI Course
+
+Welcome to the **Machine Learning** module of the **Saylani Mass IT Training (SMIT) Data Science & Artificial Intelligence** program! 
+
+This directory contains Jupyter notebooks, practical assignments, data processing workflows, and hands-on projects covering foundational to advanced machine learning algorithms, evaluation metrics, and feature engineering techniques.
+
+---
+
+## 📂 Module Topics & Structure
+
+| Topic / Folder | Description | Key Libraries & Tools |
+| :--- | :--- | :--- |
+| **01. Exploratory Data Analysis & Preprocessing** | Data cleaning, feature scaling (Standardization/Normalization), encoding categorical variables, handling missing values, and outlier detection | `Pandas`, `NumPy`, `Seaborn` |
+| **02. Supervised Learning – Regression** | Linear Regression, Polynomial Regression, Ridge & Lasso Regularization, and evaluation metrics (MAE, MSE, RMSE, R²) | `scikit-learn`, `Statsmodels` |
+| **03. Supervised Learning – Classification** | Logistic Regression, Decision Trees, Random Forests, Support Vector Machines (SVM), K-Nearest Neighbors (KNN), and Naive Bayes | `scikit-learn` |
+| **04. Model Evaluation & Optimization** | Confusion Matrix, Precision, Recall, F1-Score, ROC-AUC curves, Cross-Validation, and Hyperparameter Tuning (GridSearchCV / RandomizedSearchCV) | `scikit-learn` |
+| **05. Ensemble Methods & Boosting** | Bagging, Boosting (AdaBoost, Gradient Boosting, XGBoost), and Stacking classifiers | `xgboost`, `scikit-learn` |
+| **06. Unsupervised Learning** | Clustering (K-Means, Hierarchical, DBSCAN) and Dimensionality Reduction (PCA, t-SNE) | `scikit-learn`, `Matplotlib` |
+| **07. Model Persistence & Deployment** | Saving models using `pickle` / `joblib` and exposing REST APIs using Flask/Streamlit | `joblib`, `Streamlit` |
+
+---
+
+## 🚀 Getting Started
+
+Follow these instructions to set up the environment on your local machine and run the notebooks.
+
+### 1. Prerequisites
+Make sure you have installed:
+* **Python** (3.8+)
+* **Jupyter Notebook** or **VS Code** with Python extensions
+* **Git**
+
+### 2. Clone the Repository
+```bash
+git clone [https://github.com/buraydkhan/SMIT-DS-AI.git](https://github.com/buraydkhan/SMIT-DS-AI.git)
+cd SMIT-DS-AI/"Machine Learning"
