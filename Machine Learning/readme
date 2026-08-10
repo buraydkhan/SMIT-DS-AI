@@ -1,4 +1,25 @@
+<div align="center">
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+the+Machine+Learning+Module!;Supervised+%26+Unsupervised+Learning;Feature+Engineering+%26+Model+Optimization;From+Zero+to+Production-Ready+ML" alt="Typing SVG" />
+</p>
+
 # 🤖 Machine Learning – SMIT Data Science & AI Course
+
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-111111?style=for-the-badge&logo=xgboost)](https://xgboost.readthedocs.io/)
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,postgres,docker,git,vscode" />
+</a>
+
+</div>
+
+---
 
 Welcome to the **Machine Learning** module of the **Saylani Mass IT Training (SMIT) Data Science & Artificial Intelligence** program! 
 
@@ -8,15 +29,22 @@ This directory contains Jupyter notebooks, practical assignments, data processin
 
 ## 📂 Module Topics & Structure
 
+<details open>
+<summary><b>🔍 View Detailed Topic Breakdown</b></summary>
+
+<br/>
+
 | Topic / Folder | Description | Key Libraries & Tools |
 | :--- | :--- | :--- |
-| **01. Exploratory Data Analysis & Preprocessing** | Data cleaning, feature scaling (Standardization/Normalization), encoding categorical variables, handling missing values, and outlier detection | `Pandas`, `NumPy`, `Seaborn` |
+| **01. Exploratory Data Analysis & Preprocessing** | Data cleaning, feature scaling, encoding categorical variables, handling missing values, and outlier detection | `Pandas`, `NumPy`, `Seaborn` |
 | **02. Supervised Learning – Regression** | Linear Regression, Polynomial Regression, Ridge & Lasso Regularization, and evaluation metrics (MAE, MSE, RMSE, R²) | `scikit-learn`, `Statsmodels` |
-| **03. Supervised Learning – Classification** | Logistic Regression, Decision Trees, Random Forests, Support Vector Machines (SVM), K-Nearest Neighbors (KNN), and Naive Bayes | `scikit-learn` |
-| **04. Model Evaluation & Optimization** | Confusion Matrix, Precision, Recall, F1-Score, ROC-AUC curves, Cross-Validation, and Hyperparameter Tuning (GridSearchCV / RandomizedSearchCV) | `scikit-learn` |
+| **03. Supervised Learning – Classification** | Logistic Regression, Decision Trees, Random Forests, Support Vector Machines (SVM), KNN, and Naive Bayes | `scikit-learn` |
+| **04. Model Evaluation & Optimization** | Confusion Matrix, Precision, Recall, F1-Score, ROC-AUC curves, Cross-Validation, and Hyperparameter Tuning | `scikit-learn` |
 | **05. Ensemble Methods & Boosting** | Bagging, Boosting (AdaBoost, Gradient Boosting, XGBoost), and Stacking classifiers | `xgboost`, `scikit-learn` |
 | **06. Unsupervised Learning** | Clustering (K-Means, Hierarchical, DBSCAN) and Dimensionality Reduction (PCA, t-SNE) | `scikit-learn`, `Matplotlib` |
 | **07. Model Persistence & Deployment** | Saving models using `pickle` / `joblib` and exposing REST APIs using Flask/Streamlit | `joblib`, `Streamlit` |
+
+</details>
 
 ---
 
