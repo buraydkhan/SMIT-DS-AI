@@ -1,1 +1,36 @@
+# 🧠 Deep Learning – SMIT Data Science & AI Course
 
+Welcome to the **Deep Learning** module of the **Saylani Mass IT Training (SMIT) Data Science & Artificial Intelligence** program! 
+
+This directory contains Jupyter notebooks, practical lab assignments, code demonstrations, and projects covering core deep learning concepts—from foundational artificial neural networks to advanced computer vision and sequence models.
+
+---
+
+## 📂 Module Topics & Structure
+
+| Topic / Directory | Description | Key Frameworks & Tools |
+| :--- | :--- | :--- |
+| **01. Foundations of Neural Networks** | Perceptrons, activation functions (ReLU, Sigmoid, Softmax), gradient descent, and backpropagation | `NumPy`, `Math` |
+| **02. Artificial Neural Networks (ANN)** | Building feedforward neural networks, loss functions, optimizers (Adam, SGD), multi-class classification, and regression | `TensorFlow`, `Keras` |
+| **03. Deep Learning Workflows & Regularization** | Preventing overfitting: Dropout, Batch Normalization, L1/L2 regularization, and Early Stopping | `Keras`, `scikit-learn` |
+| **04. Convolutional Neural Networks (CNN)** | Image processing, feature maps, pooling layers, object detection, and image classification | `TensorFlow`, `OpenCV` |
+| **05. Transfer Learning & Pre-trained Models** | Fine-tuning state-of-the-art architectures (VGG16, ResNet, MobileNet, EfficientNet) | `Keras Applications` |
+| **06. Recurrent Neural Networks (RNN & LSTM)** | Sequential data processing, Time Series forecasting, LSTMs, and GRUs | `TensorFlow`, `Keras` |
+| **07. Model Evaluation & Deployment** | Confusion matrix, classification reports, saving/loading models (`.h5`, `.keras`), and web integration | `Flask`/`Streamlit`, `TensorFlow` |
+
+---
+
+## 🚀 Getting Started
+
+Follow these instructions to set up the environment on your local machine and run the notebooks.
+
+### 1. Prerequisites
+Ensure you have the following installed:
+* **Python** (version 3.9 – 3.11 recommended)
+* **Jupyter Notebook** or **VS Code** with Python extensions
+* **Git**
+
+### 2. Clone the Repository
+```bash
+git clone [https://github.com/buraydkhan/SMIT-DS-AI.git](https://github.com/buraydkhan/SMIT-DS-AI.git)
+cd SMIT-DS-AI/"Deep Learning"
